@@ -1,0 +1,16 @@
+{
+  "name": "kisst-server",
+  "version": "0.1.0",
+  "description": "Keep-It-Simple-Stock-Take server/ backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.6.0",
+    "express": "^4.17.1",
+    "ws": "^7.5.0"
+  }
+}
