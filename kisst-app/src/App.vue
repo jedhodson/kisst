@@ -461,7 +461,7 @@
           <span>{{ debugInfo }}. DB: {{ database }}</span
           ><br />
           <span class="block sm:inline"
-            >&copy; 2021 Scatter Labs Pty Ltd.
+            >Released under the MIT License
           </span>
           <span class="block sm:inline">All rights reserved.</span>
         </div>
