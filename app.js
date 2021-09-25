@@ -15,7 +15,7 @@ app.use(staticFileMiddleware);
 app.use(history())
 app.use(staticFileMiddleware);
 
-server.listen(process.env.PORT || 80, () => {
+server.listen(process.env.PORT || 3000, () => {
     console.log(`Server started on port ${server.address().port} :)`);
 });
 
