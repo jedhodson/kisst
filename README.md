@@ -12,11 +12,11 @@ If you have a barcode scanner and just need to quickly inventory some stuff, or 
 4. Start the server: `npm run server`
 
 ## Nifty Features
-### Enter to progress feilds
-Pressing enter will move you to the next input feild. Works like a charm with most barcode scanners.
+### Enter to progress fields
+Pressing enter will move you to the next input field. Works like a charm with most barcode scanners.
 
-### Locking Feild Locking
-When moving alot of stock into one location, you can lock the location feild to only cycle between barcode and quantity.
+### Locking field Locking
+When moving alot of stock into one location, you can lock the location field to only cycle between barcode and quantity.
 
 Just click the padlock icon.
 
